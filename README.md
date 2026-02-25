@@ -76,7 +76,3 @@ src/
 3. Add **tasks** to keep track of what you're working on
 4. Check **stats** to see how many sessions you've completed
 5. Open **Settings** (⚙️) to customize durations to your liking
-
-## 📄 License
-
-MIT License © 2026
